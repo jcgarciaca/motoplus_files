@@ -1,0 +1,10 @@
+﻿  ------ Now building project: WritePosVar------
+  Compiling mpMain.c
+mpMain.c : warning : In function `mpTask2'
+mpMain.c(88): warning : passing arg 1 of `mpPutPosVarData' from incompatible pointer type
+mpMain.c(102): warning : passing arg 1 of `mpPutPosVarData' from incompatible pointer type
+mpMain.c(116): warning : passing arg 1 of `mpPutPosVarData' from incompatible pointer type
+mpMain.c(64): warning : unused variable `mty'
+  Building WritePosVar.out
+  Build Successful!  Check 'DX100\WritePosVar' folder for WritePosVar.out
+  ------

@@ -1,0 +1,4 @@
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/task2.c:19:20: warning: garbage at end of `#ifdef' argument
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/task2.c:38:20: warning: garbage at end of `#ifdef' argument
+

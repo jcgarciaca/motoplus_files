@@ -1,0 +1,7 @@
+﻿  ------ Now building project: Movimiento_1------
+  Compiling mpMain.c
+mpMain.c : warning : In function `mpTask2'
+mpMain.c(72): warning : unused variable `mp_posvar_data'
+  Building Movimiento_1.out
+  Build Successful!  Check 'DX100\Movimiento_1' folder for Movimiento_1.out
+  ------

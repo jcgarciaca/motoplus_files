@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{cb855438-e71e-43b7-80db-b6c128dd6a11}</UniqueIdentifier>
+      <Extensions>txt;c;cpp</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1eb70a1a-7544-4317-9830-5a6550653437}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="MotoPlus Libraries">
+      <UniqueIdentifier>{1be813fa-2123-41ad-a25d-cc6983401f56}</UniqueIdentifier>
+      <Extensions>fsLib;mpLib;dxLib;dnLib;lib</Extensions>
+    </Filter>
+    <Filter Include="Compile Settings">
+      <UniqueIdentifier>{3f7d55d9-01a8-42d0-a697-3c5e78d30028}</UniqueIdentifier>
+      <Extensions>mps</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mpMain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VariableIOCtrl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="funclib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DX100CompilerArguments.mps">
+      <Filter>Compile Settings</Filter>
+    </None>
+    <None Include="DX100LinkerArguments.mps">
+      <Filter>Compile Settings</Filter>
+    </None>
+    <None Include="DX200CompilerArguments.mps">
+      <Filter>Compile Settings</Filter>
+    </None>
+    <None Include="DX200LinkerArguments.mps">
+      <Filter>Compile Settings</Filter>
+    </None>
+    <None Include="FS100CompilerArguments.mps">
+      <Filter>Compile Settings</Filter>
+    </None>
+    <None Include="FS100LinkerArguments.mps">
+      <Filter>Compile Settings</Filter>
+    </None>
+  </ItemGroup>
+</Project>

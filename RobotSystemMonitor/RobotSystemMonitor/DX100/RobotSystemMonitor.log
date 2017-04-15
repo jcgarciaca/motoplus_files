@@ -1,0 +1,7 @@
+﻿  ------ Now building project: RobotSystemMonitor------
+  Compiling funclib.c
+  Compiling mpMain.c
+  Compiling VariableIOCtrl.c
+  Building RobotSystemMonitor.out
+  Build Successful!  Check 'DX100\RobotSystemMonitor' folder for RobotSystemMonitor.out
+  ------

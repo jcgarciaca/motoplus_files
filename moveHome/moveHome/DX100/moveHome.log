@@ -1,0 +1,7 @@
+﻿  ------ Now building project: moveHome------
+  Compiling mpMain.c
+mpMain.c : warning : In function `mpTask2'
+mpMain.c(68): warning : comparison between signed and unsigned
+  Building moveHome.out
+  Build Successful!  Check 'DX100\moveHome' folder for moveHome.out
+  ------

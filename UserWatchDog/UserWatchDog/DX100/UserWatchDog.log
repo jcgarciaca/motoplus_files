@@ -1,0 +1,12 @@
+﻿  ------ Now building project: UserWatchDog------
+  Compiling funclib.c
+  Compiling mpMain.c
+mpMain.c(43,20): warning : garbage at end of `#ifdef' argument
+mpMain.c(67,20): warning : garbage at end of `#ifdef' argument
+mpMain.c(74,20): warning : garbage at end of `#ifdef' argument
+mpMain.c(82,20): warning : garbage at end of `#ifdef' argument
+mpMain.c : warning : In function `mp_seg_mon_task'
+mpMain.c(64): warning : unused variable `rc'
+  Building UserWatchDog.out
+  Build Successful!  Check 'DX100\UserWatchDog' folder for UserWatchDog.out
+  ------

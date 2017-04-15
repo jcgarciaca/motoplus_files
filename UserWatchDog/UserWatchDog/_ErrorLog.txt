@@ -1,0 +1,12 @@
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:43:20: warning: garbage at end of `#ifdef' argument
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:67:20: warning: garbage at end of `#ifdef' argument
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:74:20: warning: garbage at end of `#ifdef' argument
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:82:20: warning: garbage at end of `#ifdef' argument
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c: In function `mp_seg_mon_task':
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:64: warning: unused variable `rc'
+

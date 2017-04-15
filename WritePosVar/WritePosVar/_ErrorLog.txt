@@ -1,0 +1,10 @@
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c: In function `mpTask2':
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:88: warning: passing arg 1 of `mpPutPosVarData' from incompatible pointer type
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:102: warning: passing arg 1 of `mpPutPosVarData' from incompatible pointer type
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:116: warning: passing arg 1 of `mpPutPosVarData' from incompatible pointer type
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:64: warning: unused variable `mty'
+

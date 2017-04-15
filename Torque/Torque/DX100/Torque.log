@@ -1,0 +1,8 @@
+﻿  ------ Now building project: Torque------
+  Compiling mpMain.c
+mpMain.c : warning : In function `mpTask2'
+mpMain.c(58): warning : unused variable `dst_trq'
+mpMain.c(57): warning : unused variable `dst_vel'
+  Building Torque.out
+  Build Successful!  Check 'DX100\Torque' folder for Torque.out
+  ------

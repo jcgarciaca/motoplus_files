@@ -1,0 +1,9 @@
+﻿  ------ Now building project: RWPosVariable------
+  Compiling mpMain.c
+mpMain.c : warning : In function `mpTask2'
+mpMain.c(71): warning : comparison between signed and unsigned
+mpMain.c(46): warning : unused parameter `arg1'
+mpMain.c(46): warning : unused parameter `arg2'
+  Building RWPosVariable.out
+  Build Successful!  Check 'DX100\RWPosVariable' folder for RWPosVariable.out
+  ------

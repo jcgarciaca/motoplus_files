@@ -1,0 +1,6 @@
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c: In function `mpTask2':
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:58: warning: unused variable `dst_trq'
+
+C:/Users/Julio Garcia/AppData/Local/mpAscii 0/mpMain.c:57: warning: unused variable `dst_vel'
+
